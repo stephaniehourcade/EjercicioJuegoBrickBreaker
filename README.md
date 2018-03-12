@@ -1,1 +1,1 @@
-# EjercicioJuegoBrickBreaker - JAVA
+# Ejercicio Juego BrickBreaker - JAVA
